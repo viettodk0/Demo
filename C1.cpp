@@ -4,7 +4,7 @@ int main()
 {
     int n;
     cin >> n;
-    if (n != 1)
+    if (n != 3)
         cout << "Hello world";
     else
         cout << "n = 1";
